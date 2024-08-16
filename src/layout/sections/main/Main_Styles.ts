@@ -9,6 +9,7 @@ const Main = styled.div`
 `
 
 const TextWrapper = styled.div`
+    position: relative;
     padding-top: 50px;
     @media ${theme.media.mobile} {
         text-align: center;

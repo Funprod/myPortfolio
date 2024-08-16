@@ -22,5 +22,5 @@ export const Icon: React.FC<iconPropsType> = (props: iconPropsType) => {
 }
 
 const StyledIcon = styled.div`
-
+        position: relative;
 `
